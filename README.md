@@ -8,7 +8,7 @@ i learned vim motions, currently using neovim with nvchad.
 
 halfway through CS:APP, the computer systems book.
 
-recapping over CompTIA A+ 1102 to prepare for the exam.
+recapping over CompTIA A+ 1201 to prepare for the exam.
 going over "Linux Fundamentals" from Hack The Box Academy just in case
 i missed something in my linux journey.
 
